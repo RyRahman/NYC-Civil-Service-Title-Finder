@@ -15,3 +15,5 @@ A client-side, zero-dependency single-page application (SPA) designed to help ca
 - **Detailed Specification Modal:** View full official specification text, education and experience minimums, direct lines of promotion, and assignment-level salary bands.
 - **Side Panel Explorer:** Category breakdown counts and fast search for quick browsing.
 - **Zero Dependencies:** Pure HTML, CSS, and vanilla JavaScript—runs instantly in any browser without build tools or web servers.
+
+Demo: https://ryrahman.github.io/NYC-Civil-Service-Title-Finder/
